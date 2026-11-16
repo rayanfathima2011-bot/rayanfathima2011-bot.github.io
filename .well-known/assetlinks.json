@@ -1,8 +1,14 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.rayanfathima2011_bot.twa",
-        "sha256_cert_fingerprints": ["27:52:64:E3:E3:EF:D8:49:B2:14:E0:6F:7D:80:5A:BE:E5:25:EF:8F:C9:DA:1D:BC:46:97:63:3C:F9:AA:43:49"]
-      }
-    }]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.rayanfathima2011_bot.twa",
+      "sha256_cert_fingerprints": [
+        "E4:6E:22:92:52:86:AB:85:0C:AB:3E:5F:79:3A:38:30:52:6B:52:16:18:86:52:84:E7:EA:CB:1C:9F:A2:C5:AF"
+      ]
+    }
+  }
+]
